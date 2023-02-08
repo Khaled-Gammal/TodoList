@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TodoList/static/css/main.18f95c85.css",
+    "main.js": "/TodoList/static/js/main.48dd3025.js",
+    "static/js/787.97a945da.chunk.js": "/TodoList/static/js/787.97a945da.chunk.js",
+    "static/media/pexels-milada-vigerova-6037113.jpg": "/TodoList/static/media/pexels-milada-vigerova-6037113.27948f0fdc9f3f255533.jpg",
+    "index.html": "/TodoList/index.html",
+    "main.18f95c85.css.map": "/TodoList/static/css/main.18f95c85.css.map",
+    "main.48dd3025.js.map": "/TodoList/static/js/main.48dd3025.js.map",
+    "787.97a945da.chunk.js.map": "/TodoList/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18f95c85.css",
+    "static/js/main.48dd3025.js"
+  ]
+}
